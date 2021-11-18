@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48777307375",
+    "project_id": "tripples-2e16a",
+    "storage_bucket": "tripples-2e16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48777307375:android:30c569d72ccb6406aea71a",
+        "android_client_info": {
+          "package_name": "com.tripples.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48777307375-t8fr5osbr06aqqp4qnbqnau42dqs3ahf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsSWMgGbffGBlRnTJl4cnW6-pzZItBRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48777307375-t8fr5osbr06aqqp4qnbqnau42dqs3ahf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
